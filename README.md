@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## My name is Tyler and I love using programming to visualize information
+
+- I'm currently learning web development fundamentals
+- I'm developing a mind map software to track my own ideas/experiences
+
 <!--
 **TylerTonyJohnson/TylerTonyJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
