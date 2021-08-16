@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## My name is Tyler and I love using programming to visualize information
 
 - I'm currently learning web development fundamentals
