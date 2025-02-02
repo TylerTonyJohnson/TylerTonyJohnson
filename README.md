@@ -1,19 +1,23 @@
-## My name is Tyler and I love using programming to visualize information
+Welcome to My GitHub! 👋
 
-- I'm currently learning web development fundamentals
-- I'm developing a mind map software to track my own ideas/experiences
+About Me
 
-<!--
-**TylerTonyJohnson/TylerTonyJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm passionate about building projects that help people find meaning and reflect on their lives. My work focuses on creating tools and experiences that encourage deep thought, self-discovery, and connection.
 
-Here are some ideas to get you started:
+Why Svelte?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love using Svelte because of its simplicity, efficiency, and reactivity. It allows me to focus on what matters most—crafting intuitive and meaningful applications without unnecessary complexity.
+
+What You'll Find Here
+
+🛠 Projects that inspire self-reflection
+
+💡 Tools to help people find meaning
+
+🎨 Svelte-powered applications with smooth UX
+
+Let's Connect!
+
+If you're passionate about similar ideas or just want to chat about Svelte, feel free to reach out!
+
+Happy coding! 🚀
